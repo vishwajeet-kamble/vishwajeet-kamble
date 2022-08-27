@@ -14,7 +14,7 @@
 <p>
   <a href="mailto:vishwajeetkamble19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/-vishwajeet-kamble-/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href=https://t.me/Vishwajeet_Kamble"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Vishwajeet_Kamble"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/vishwajeet-kamble"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-327FC7?logo=github&logoColor=white"></a>
 </p>
  

@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishwajeet Kamble</h1>
-<h3 align="center">Data/Business Analyst Enthusiast with experience of 1 Internships of Data Science & Business Analyst. Well informed on latest Data Analyst & Data Science advancements. Looking forward with more opportunities for Industrial experience.</h3>
+<h3 align="center">Data & Business Analyst Enthusiast with experience of 1 Internship of Data Science & Business Analyst. Well informed on latest Data Analyst & Data Science advancements. Looking forward with more opportunities for Industrial experience.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Data Analytics Projects**
 
-- 🌱 I’m currently learning: **Data/Business Analytics & Machine Learning**
+- 🌱 I’m currently learning: **Data & Business Analytics & Machine Learning**
 
 - 📫 How to reach me: **vishwajeetkamble19@gmail.com**
 

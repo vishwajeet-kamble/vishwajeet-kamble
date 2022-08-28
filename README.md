@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishwajeet Kamble</h1>
 <h3 align="center">Data/Business Analyst Enthusiast with experience of 1 Internships of Data Science & Business Analyst. Well informed on latest Data Analyst & Data Science advancements. Looking forward with more opportunities for Industrial experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet-kamble&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet-kamble" /> </p>
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Data Analytics Projects**
 
@@ -71,4 +71,10 @@
     </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwajeet-kamble&show_icons=true&locale=en&theme=radical" alt="vishwajeet-kamble" /></p>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/vishwajeet-kamble/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vishwajeet-kamble">
+<a href="https://github.com/vishwajeet-kamble?tab=followers"><img src="https://img.shields.io/github/followers/vishwajeet-kamble?label=Followers&style=social" alt="GitHub Badge"></a>
 

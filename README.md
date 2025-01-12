@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishwajeet Kamble</h1>
-<h3 align="center">Data & Business Analyst Enthusiast with experience of 1 Internship in Data Science & Business Analyst. Well informed on latest Data Analyst & Data Science advancements. Looking forward with more opportunities for Industrial experience.</h3>
+<h3 align="center">Data & Business Analyst Enthusiast with experience of 4 years in Data Science & Analystics. Well informed on latest Data Analyst, Data Engineering & Data Science advancements. Looking forward with more opportunities for Industrial experience.</h3>
 
 ## 🙋‍♂️ About Me
 
